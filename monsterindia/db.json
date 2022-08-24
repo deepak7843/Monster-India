@@ -1,19 +1,86 @@
 {
-  "posts": [
+  "services": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "image_url": "https://media.monsterindia.com/trex/public/default/images/career-services/featured-profile-services.png",
+      "heading": "Featured Profile",
+      "detail": "Rank your profile at the top to make you stand out in a crowd of jobseekers",
+      "price":"Rs. 1999",
+      "benefits":["Your profile is upfront when recruiters search candidate like you",
+
+      "You are showcased as an active job seeker who is keenly looking",
+      
+      "Increase your chances of getting shortlisted in an interview"]
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "image_url": "https://media.monsterindia.com/trex/public/default/images/career-services/resume-writing-services.png",
+      "heading": "Resume Writing",
+      "detail": "Get professionally written resume which helps you get your dream job",
+      "price":"Rs. 2499",
+      "benefits":["Clearly Stated Objective Targeting the job you're looking for",
+
+      "Work History in the right chronological order",
+      
+      "Highlight your education background and key skills",
+      
+      "Use of Keywords in a way that Aplication Tracker ranks you",
+      
+      "A Cover letter that helps you get to the interview stage"]
+    },
+    {
+      "id": 3,
+      "image_url": "https://media.monsterindia.com/trex/public/default/images/career-services/career-booster-services.png",
+      "heading": "Career Booster",
+      "detail": "Get the power of Resume Writing & Featured Profile to boost your job search",
+      "price":"Rs. 3999",
+      "benefits":["Use of Keywords in a way that Aplication Tracker ranks you",
+
+      "Get professionally written resume which helps you get your dream job"]
+    },
+    {
+      "id": 4,
+      "image_url": "https://media.monsterindia.com/trex/public/default/images/career-services/mock-interview-services.png",
+      "heading": "Mock Interview",
+      "detail": "Gain confidence to crack even the toughest interviews!",
+      "price":"Rs. 2599",
+      "benefits":["Handpicked veteran interviewers from reputed companies",
+
+      "Well structured interview program created by top industry experts",
+      
+      "Critical feedback to help you land in your dream profile",
+      
+      "Our interviewers prepare you to avoid mistakes often commited by many in an interview",
+      
+      "Get a copy of the recorded interview to ensure you don't miss out on your assessment"]
+    },
+    {
+      "id": 5,
+      "image_url": "https://media.monsterindia.com/trex/public/default/images/career-services/linkedin-makeover-services.png",
+      "heading": "LinkedIn Makeover",
+      "detail": "Transform your linkedIn profile to elevate your professional brand",
+      "price":"Rs. 2599",
+      "benefits":["Extremely strong online footprint to become searchable to recruiters",
+
+      "Good first impression, recruiters search your LinkedIn profile first before even opening your CV",
+      
+      "Stronger LinkedIn profile leads to strong professional network"]
+    },
+    {
+      "id": 6,
+      "image_url": "https://media.monsterindia.com/trex/public/default/images/career-services/mock-interview-services.png",
+      "heading": "Mock Interview",
+      "detail": "Gain confidence to crack even the toughest interviews!",
+      "price":"Rs. 2599",
+      "benefits":["Handpicked veteran interviewers from reputed companies",
+
+      "Well structured interview program created by top industry experts",
+      
+      "Critical feedback to help you land in your dream profile",
+      
+      "Our interviewers prepare you to avoid mistakes often commited by many in an interview",
+      
+      "Get a copy of the recorded interview to ensure you don't miss out on your assessment"]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
