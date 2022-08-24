@@ -1,0 +1,24 @@
+.navbar{
+    justify-content:space-between;
+    /* border:10px solid red; */
+    display: flex;
+    cursor: pointer;
+}
+div > p:hover{
+    /* font-weight: bold;
+     */
+color:blue
+    }
+
+.btn{
+    margin: 7px;
+    color: orangered;
+    border: none;
+    background-color:rgb(233, 221, 197);
+}
+
+.btn2{
+    margin: 10px;
+    background-color:white;
+    border-radius: 7px;
+}
