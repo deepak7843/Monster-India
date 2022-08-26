@@ -1,13 +1,24 @@
 
-import './App.css';
+// import './App.css';
 import React from "react"
-import Navbar from './Components/Navbar';
-import Premium_Services from './Pages/Premium_Services';
+
+import Navbar from './Components/Navbar/Navbar';
+import Footer from './Components/Footer/Footer';
+import Login from './Pages/Login';
+import MainRoutes from "./Pages/MainRoutes";
+
 
 function App() {
   return (
     <div className="App">
-      <Premium_Services/>
+
+
+      <Navbar/>
+      <Footer/>
+      {/* <Login/> */}
+
+      <MainRoutes/>
+
     </div>
   );
 }
