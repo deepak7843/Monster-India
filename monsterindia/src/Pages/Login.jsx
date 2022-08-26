@@ -29,6 +29,8 @@ import { Navigate } from "react-router-dom"
         navigate("./")
         window.location.reload()
     }
+
+    ////
   
     return (
       <>
@@ -50,7 +52,7 @@ import { Navigate } from "react-router-dom"
               <Input placeholder='Enter Mobile ' />
               <Button colorScheme="teal" marginTop="10px" onClick={handleLogin}>Continue</Button>
             </DrawerBody>
-
+{/* ////////// */}
   
           </DrawerContent>
         </Drawer>
