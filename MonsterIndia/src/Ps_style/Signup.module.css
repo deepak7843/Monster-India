@@ -1,0 +1,39 @@
+.container{
+    width:35%;
+    margin: auto;
+    margin-top: 20px;
+}
+.heading{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(61, 61, 61);
+}
+.heading span{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(61, 61, 61);
+}
+.subHeading{
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(94, 94, 94);
+}
+.buttonContainer{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(216, 214, 214);
+}
+.gButton{
+    margin-right: 20px;
+    border: 1px solid pur;
+}
+.input{
+    margin-bottom: 10px;
+}
+.signupButton{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 150px;
+}

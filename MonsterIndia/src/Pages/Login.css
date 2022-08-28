@@ -1,0 +1,18 @@
+.main{
+
+    border: 10px solid red;
+    width: 700px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.head{
+    /* border:1px solid black; */
+    /* padding: 10px; */
+    margin-left: -120px;
+}
+
+/* .btn{
+    padding-left: 30px;
+    
+} */
