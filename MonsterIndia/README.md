@@ -1,8 +1,17 @@
 ## Monster.com is a global employment website owned and operated by Monster Worldwide, Inc.
 
-This is the clone of the Monster.com website. Monster.com is an job providing website. From this website, users can get a jobacross the India.
+This is the clone of the Monster.com website. Monster.com is an job providing website. From this website, users can get a job across the India.
 
 project-id: skinny-pot-4052
+
+## Concepts we covered in the entire project:
+React, 
+Redux,
+HTML,,
+CSS,
+DOM,
+Local Storage
+
 
 # Some features of this website
 
