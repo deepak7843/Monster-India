@@ -18,7 +18,8 @@ Local Storage
 
 * We have also implemented filtering functionalities like user can filter the job according to salary, rating. This will help user to easy to find their desired job.
 
-![image](https://user-images.githubusercontent.com/97316457/188929896-c0ad6470-4452-4e8d-ab00-046df131fbe1.png)
+![image](https://user-images.githubusercontent.com/97316457/189301701-e041c23a-4534-4405-8013-b3d465a39866.png)
+
 
 
 
